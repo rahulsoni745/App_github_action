@@ -1,0 +1,1 @@
+# A Flask application serves as the main entry point for your web application. It initializes the Flask framework, defines the routes (URLs) and views (what happens when a user accesses a URL), and handles the logic of your web app.
